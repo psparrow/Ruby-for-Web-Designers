@@ -1,0 +1,6 @@
+require_relative 'element'
+require_relative 'div'
+require_relative 'p'
+require_relative 'br'
+require_relative 'opening_tag_renderer'
+require_relative 'full_tag_renderer'
